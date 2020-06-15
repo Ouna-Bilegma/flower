@@ -15,10 +15,4 @@
 - [ ] red roses
 - [ ] yellow dandelion
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-``` 
+![dandelion](https://github.com/Ouna-Bilegma/flower/blob/master/index.jpeg)

@@ -17,4 +17,4 @@
 # Did you know I caught an arrow with my own hand, It's the truth I swear!
 
 ![dandelion](https://github.com/Ouna-Bilegma/flower/blob/master/index.jpeg)
-![peony](https://github.com/Ouna-Bilegma/flower/blob/master/peony.jpg)
+

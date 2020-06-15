@@ -17,4 +17,7 @@
 # Did you know I caught an arrow with my own hand, It's the truth I swear!
 
 ![dandelion](https://github.com/Ouna-Bilegma/flower/blob/master/index.jpeg)
+Birthday | Favourite color | Favourite food | Pineapple on pizza? |
+---------| --------------- | -------------- | ---------------- ---|
+13/07/1993 | Black | pasta | <ul><li> [x] Yes. </li> <li> [ ] No </li> </ul>|
 

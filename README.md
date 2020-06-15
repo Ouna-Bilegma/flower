@@ -24,8 +24,8 @@
 
 
 
-
-Birthday | Favourite color | Favourite food | Pineapple on pizza? |
----------| --------------- | -------------- | ---------------- ---|
-13/07/1993 | Black | pasta | <ul><li> [x] Yes. </li> <li> [ ] No </li> </ul>|
+| Movies | Series |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
